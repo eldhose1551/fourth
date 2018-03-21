@@ -1,7 +1,7 @@
 This is the third file in repository fourth
 This is created by a collaborator
-
+<<<<<<< HEAD
 am the one who edited this
-
+=======
 This is an edit to file 3
-
+>>>>>>> 9f6e61a30c7f864f2f70f677b09a132555a4f833
